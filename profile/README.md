@@ -1,12 +1,7 @@
-# Bank Safe
+# Safe Bank
 
-<!--
+Safe Bank is a mobile banking app enabling seamless and secure zkProofs, a fiat onramp and payments across wallets and bank accounts.
 
-**Here are some ideas to get you started:**
+Safe Bank blends online banking with decentrealized protocols. Leveraging Monerium, Gnosis Chain and Safe Protocol, it offers users a seamless and secure platform for initiating stablecoin payments across the SEPA network. Send EURe stablecoin tokens to any domestic or international bank account from your Safe multisig.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Access special perks by proving uniqueness, credit scores, age and other identity details. Enjoy perks while retaining privacy about yourself thanks to Mina Protocol.

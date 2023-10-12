@@ -7,9 +7,9 @@ Safe Bank blends online banking with decentrealized protocols. Leveraging Moneri
 Access special perks by proving uniqueness, credit scores, age and other identity details. Enjoy perks while retaining privacy about yourself thanks to Mina Protocol.
 
 
-## BUIDL Vietnam Hackathon
-🏆 Overall Grand Prize
-🥇 Gnosis Chain
-🥇 Mina Protocol
+## BUIDL Vietnam Hackathon  
+🏆 Overall Grand Prize  
+🥇 Gnosis Chain  
+🥇 Mina Protocol  
 
-Demo: https://devfolio.co/projects/banking-protocol-d4ab
+Demo: https://devfolio.co/projects/banking-protocol-d4ab  
